@@ -1,0 +1,12 @@
+name: Clark-SVD-mortality
+title: Clark-SVD-mortality
+username:
+account: schmertmann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 756947
+bundleId: 1911542
+url: https://schmertmann.shinyapps.io/Clark-SVD-mortality/
+when: 1551574415.00592
+asMultiple: FALSE
+asStatic: FALSE
