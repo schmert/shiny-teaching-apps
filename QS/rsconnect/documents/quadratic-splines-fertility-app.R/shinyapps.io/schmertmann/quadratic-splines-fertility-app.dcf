@@ -1,0 +1,12 @@
+name: quadratic-splines-fertility-app
+title: quadratic-splines-fertility-app
+username:
+account: schmertmann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 749474
+bundleId: 1906544
+url: https://schmertmann.shinyapps.io/quadratic-splines-fertility-app/
+when: 1551370864.1493
+asMultiple: FALSE
+asStatic: FALSE

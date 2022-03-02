@@ -1,0 +1,13 @@
+name: brass-mortality-model
+title: brass-mortality-model
+username:
+account: schmertmann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 745549
+bundleId: 5633298
+url: https://schmertmann.shinyapps.io/brass-mortality-model/
+when: 1646235831.82877
+lastSyncTime: 1646235831.82877
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: Wilmoth-et-al-mortality-model
+title: Wilmoth-et-al-mortality-model
+username:
+account: schmertmann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 744447
+bundleId: 1904732
+url: https://schmertmann.shinyapps.io/Wilmoth-et-al-mortality-model/
+when: 1551304916.03628
+asMultiple: FALSE
+asStatic: FALSE
